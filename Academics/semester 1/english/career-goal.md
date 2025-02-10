@@ -1,0 +1,1 @@
+Currently I aim to be a CyberSecurity Engineer with a focus on Networking. I find the connections between computers fascinating and the fact that I could get paid six figures to work in a field that I've been studying since I was a child. \

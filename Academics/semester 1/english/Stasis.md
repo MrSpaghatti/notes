@@ -1,0 +1,19 @@
+Four Classical Stases:
+Fact: Did something happen? what caused the issue?
+Definition: What is the nature of the problem
+Quality: Is the topic positive or negative? what happens if we do nothing about it?
+Policy: Should we take action to fix? Who's responsibility is it to fix?
+
+I’ve decided to write about the concept of addiction, because not only is addiction a much more prominent issue than currently believed, it is also much too general to be used on every person struggling with substance dependence. Addiction is talked about almost daily due to the growing Fentanyl problem, increasing pressure from the cartel on the southern borders, and the THC ‘Cartdemic’ that have all been raging across the united states for years. I wish to explore the use of the word ‘addict’ and the stigma attached to it.
+As someone who has been labeled as an addict by many people over the past several years, I have experienced first hand the malice attached to the word. To get a better understanding of the general attitude toward addiction, I talked about life with one hundred random people for fifteen minutes each. In conversation, I told half of them that I had been “addicted to several substances a few years ago,” and I told the remaining half that I had “spent time in rehab because of several substances.” My goal in doing this is to gauge the difference in reactions between the use of the word ‘addict’ and the lack thereof. When I first let slip that I had been ‘addicted’ to substances in the past, around fifteen out of the first fifty people started to slow their speech patterns in fear that I was mentally slower than them. Ten people became uncomfortable and hurried to end the conversation, nineteen people sympathized and moved on, and the remaining six people admitted to struggling with similar issues in the past.
+Finding examples of people viewing addicts as ‘less than human’ was a simple task; all I had to do was search for the word ‘addict’ in recent articles, and the top result asks “is every addict’s life worth saving?” (Price). This article is titled in a way that questions the value of an addict’s life compared to that of a non-addict. 
+Another article states that “our first reaction to addiction is revulsion” (Clarke). These are two of innumerable examples of the prejudice tied to people who struggle with addiction.
+
+Price, Robert. "[https://www.msn.com/en-us/health/medical/is-every-addict-s-life-worth-saving-some-scanner-club-facebook-commenters-take-negative-view/ar-AA1rVfAg](https://www.msn.com/en-us/health/medical/is-every-addict-s-life-worth-saving-some-scanner-club-facebook-commenters-take-negative-view/ar-AA1rVfAg) [Links to an external site.](https://www.msn.com/en-us/health/medical/is-every-addict-s-life-worth-saving-some-scanner-club-facebook-commenters-take-negative-view/ar-AA1rVfAg))
+
+([https://www.city-journal.org/article/on-the-moral-status-of-addicts](https://www.city-journal.org/article/on-the-moral-status-of-addicts) [Links to an external site.](https://www.city-journal.org/article/on-the-moral-status-of-addicts)). 
+
+
+THESIS
+1. "The term 'addict' dehumanizes individuals and perpetuates harmful stereotypes, alienating those struggling with substance abuse and reducing their chances of seeking help. Shifting societal attitudes and reframing addiction as a treatable condition are crucial for promoting recovery and addressing the substance abuse crisis."
+2. "The use of the term 'addict' perpetuates harmful stereotypes and alienates those struggling with substance abuse, reducing their chances of seeking help. Shifting societal attitudes toward addiction is crucial for promoting recovery and combating the ongoing substance abuse crises."

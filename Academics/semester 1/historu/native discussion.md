@@ -1,0 +1,6 @@
+8-23-24
+
+1. In my opinion, most native american themed movies are racist. But a major series that almost everyone has heard of would have to be *Cowboys Vs. Indians.* These battles were rarely between cowboys and native Americans; instead they were between the natives and the invading government. 
+2. Understanding history in general is a very useful skill to have. It allows us to learn from the mistakes of our predecessors and avoid suffering from the same problems. Without the ability to learn from history, humans would still be living in caves.
+3. People are scaredy-cats and the media loves to take advantage of that. A disappointingly large majority of news sources appear to no longer focus on the spread of veritable information, instead taking under-the-table bribes to post what could be a respectable news article as something solely meant to make people mad at each other. 
+4. Just as the Europeans ostracized the natives, many people today still harbor hatred for members of another group. Some of us need to take a look at the bigger picture and realize this issue has been ongoing for centuries, with a different flavor for each era. In my opinion, many people today focus too much of their time and energy into fixing insignificant problems. Just like weeds, big problems need to be attacked from the roots
