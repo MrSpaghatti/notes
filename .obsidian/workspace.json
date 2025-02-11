@@ -1,0 +1,253 @@
+{
+  "main": {
+    "id": "1cd7200581f50c1b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b411319520b0807d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "237ad4d07242fbd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "chapter 7.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "chapter 7"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c37bb5d295ff6e8b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b481c6a1d9259df4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21125308ad647e69",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3fbc664ec3342e08",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9484d08a3f67df12",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 210.5
+  },
+  "right": {
+    "id": "426315059ede325c",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c03c2486b460e30",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20db597148d72cc6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "11-01-2024.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 11-01-2024"
+            }
+          },
+          {
+            "id": "7ac6f8214692a640",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "11-01-2024.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 11-01-2024"
+            }
+          },
+          {
+            "id": "086471231f86f822",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "59aaffc7a4170dd1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "chapter 7.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of chapter 7"
+            }
+          },
+          {
+            "id": "125f20fb715c4138",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "f3c1a46dffa5a2e6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "31d719afebebe7d8",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 293.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "obisidian-note-linker:Note Linker": false,
+      "copilot:Open Copilot Chat": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "237ad4d07242fbd3",
+  "lastOpenFiles": [
+    "chapter 7.md",
+    "notes",
+    "Academics/semester 2/math/scratchwork.md",
+    "Ink/Drawing/2025.2.8 - 18.31pm.drawing",
+    "Ink/Drawing",
+    "Academics/semester 2/Environmental Science/chapter 6.md",
+    "Ink/Writing/2025.2.8 - 18.28pm.writing",
+    "Ink/Writing",
+    "Ink",
+    "Logan Conrad Resume.md",
+    "Academics/semester 2/csce/python/math signs.md",
+    "Academics/semester 2/csce/python/Ints vs Floats.md",
+    "Academics/semester 2/csce/python/Bools.md",
+    "Academics/semester 2/csce/python/Strings.md",
+    "Academics/semester 2/csce/python/Type Conversion.md",
+    "Academics/semester 2/csce/python/String Methods.md",
+    "Academics/semester 2/csce/python",
+    "Academics/semester 1/english/weekly 11.md",
+    "Academics/semester 1/english/Academic Journey- A Semester of Growth.md",
+    "templates/lecture_template.md",
+    "Personal/books",
+    "Personal/skills",
+    "templates/book_summary_template.md",
+    "Academics/semester 1/historu/native discussion.md",
+    "resources",
+    "templates/oblig1.md",
+    "Academics/semester 1/historu/virgina maschusetgs.md",
+    "Personal/skills/programming/dot.devcontainer-devcontainer.json.md",
+    "Academics/semester 2/Environmental Science/chapter 5.md",
+    "Academics/semester 2/Environmental Science/chapter 1.md",
+    "Academics/semester 2/Environmental Science/chapter 4.md",
+    "01-28-2025.md",
+    "01-31-2025.md",
+    "01-29-2025.md",
+    "school/bio/bio lab welcome discussion.md",
+    "Academics/semester 2/Environmental Science/Yellowstone Wolves.md",
+    "random-garbage/Attachments/supports-mermaid-diagrams.jpeg",
+    "quartz/node_modules/cli-spinner/img/spinner.gif",
+    "quartz/node_modules/psl/browserstack-logo.svg",
+    "quartz/quartz/static/og-image.png",
+    "quartz/quartz/static/icon.png",
+    "quartz/docs/images/quartz transform pipeline.png",
+    "quartz/docs/images/quartz layout.png",
+    "quartz/docs/images/github-quick-setup.png",
+    "quartz/docs/images/github-init-repo-options.png",
+    "quartz/docs/images/giscus-results.png"
+  ]
+}

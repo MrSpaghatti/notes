@@ -1,0 +1,23 @@
+{
+  "resultsCount": 6,
+  "khojUrl": "https://app.khoj.dev",
+  "khojApiKey": "kk-TtVSkWF_rqSSvxOzp_pYJK3RKAhxyya4q_NN2egCa44",
+  "connectedToBackend": true,
+  "autoConfigure": true,
+  "lastSync": {},
+  "syncFileType": {
+    "markdown": true,
+    "images": true,
+    "pdf": true
+  },
+  "userInfo": {
+    "email": "ferretshiny@gmail.com",
+    "username": "ferretshiny@gmail.com",
+    "photo": "https://lh3.googleusercontent.com/a/ACg8ocLfiBt96ASxXAQ1hiFCjZTojzIX_mCglt0m7iHS2NSpUatakPbJ=s96-c",
+    "is_active": false,
+    "has_documents": false,
+    "khoj_version": "1.36.2"
+  },
+  "syncFolders": [],
+  "syncInterval": 60
+}

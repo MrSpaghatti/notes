@@ -1,0 +1,12 @@
+{
+  "folderSpecificTemplates": [
+    {
+      "folderPath": "Academics",
+      "templateName": "lecture_template"
+    },
+    {
+      "folderPath": "Personal/books",
+      "templateName": "book_summary_template"
+    }
+  ]
+}
