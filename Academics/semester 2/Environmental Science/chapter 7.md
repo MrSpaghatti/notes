@@ -88,5 +88,88 @@
 		- little parental care
 		- produce high numbers to overcome high mortality
 		- controlled by density-independent limiting factors
+### Human Population Characteristics and Implications
+- the world can be divided into two segments based on economic development.
+- more-developed countries typically have per capita income exceeding $40,000
+	- europe, canada, USA, Japan, australia, new zealand.
+	- combined population of 1.27 billion
+	- relatively stable populations
+	- expected to grow 3.5% between 2020 and 2050
+- less developed countries typically have a per capita income less than $20,000-$15,000
+- all other remaining countries of the world
+- combined population of 6.5 billion
+- nearly 700 million live on less than $1.90 per day.
+- high population growth rates.
+- expected to grow by 32% between 2020 and 2050 to reach 6.8 billion and will constitute about 87% of the world's population
+- human population growth is tied to economic development and is a contributing factor to nearly all environmental problems
+- population density relates the size of population to available resources.
+	- countries with abundant resources can sustain higher population densities than resource-poor countries
+- the degree of technological development and affluence is also significant; people in highly developed countries consume huge amounts of resources.
+- Affluence - people in highly developed countries consume huge amounts of resources
+- technology - the technology used is an important contributor to environmental impact
+	- firewood for heat can lead to deforestation
+	- coal-fired power plants contribute to pollution
+	- wind and solar energy lower environmental impact
+- the environmental foot print concept - the environmental impact of highly developed regions is often felt in distant places where goods are produced
+- the ecological footprint is a measure of the land area required to provide the resources and absorb the wastes of a population
+- most of the more-developed countries of the world have a much larger ecological footprint than is represented by their land area.
+	- japan is highly dense but has few resources; its ecological footprint is 5 times larger than its locally available resources
+	- the ecological footprint of the USA is 1.5 times locally available resources
+### Factors that Influence Human Population Growth
+- Humans are influenced by social, political, economic, and ethical factors
+- we can make conscious decisions based on the likely course of events and adjust our lives accordingly
+- biological factors:
+	- Demography - the study of populations and their characteristics, how those characteristics affect growth, and the consequence of that growth.
+	- the balance between the birth rate and death rate has a large influence on population growth.
+		- the age distribution of a population influence population growth.
+		- zero population growth is when the birth rate equals death rate
+	- The most important determinant of the rate at which human populations grow is related to how many women in the population are having children and the number of children each woman will have
+	- total fertility - the number of children a woman has during her lifetime
+		- a total fertility rate of 2.1 is known as replacement fertility; parents produce 2 children who will replace the parents when they die.
+- Social factors:
+	- reducing fertility rates would be advantageous, especially in low developed countries, but not everyone agrees
+	- several factors (religious, traditional, social, and economic) influence the number of children a couple would like to have
+	- the major social factors determining family size are the status and desires of women in the culture
+	- in male-dominated cultures, traditional role of women is to marry and raise children
+		- early marriages foster high fertility rates.
+			- women are exposed to a high likelihood of pregnancy for longer
+		- childrearing practices also influences the population growth rates
+			- in countries where breast feeding is practiced, several benefits accrue.
+			- breast milk is an excellent source of nutrients and antibodies
+			- during the months a woman is breast feeding, she is less likely to become pregnant again
+		- lack of education opportunities for women reduces their options
+			- when level of education increases, fertility rates fall
+			- financial independence leads to marriage later in life
+			- better-educated women are more likely to have access to and use birth control
+		- in some cultures women desire large families
+			- in countries where infant mortality rate is high, it is traditional to have large families since several of a woman's children may not live to adulthood
+			- parents are more secure when there are many children to look after their own needs in old age
+- Economic factors:
+	- in less developed countries, teh economic benefits of children are extremely important
+		- even young children can be given jobs that contribute to the family economy, such as protecting livestock, gathering firewood, or carrying water.
+		- in the developed world, large numbers of children are an econominc drain
+			- they are prevented from working
+			- they must be sent to school at great expense
+			- they consume large amounts of the family income.
+- political factors:
+	- governments can either reward or punish high fertility rates.
+	- several european countries are concerned about low birth rates and have instituted policies to encourage couples to have more children
+		- paid maternity leave and guaranteed job availability upon the mother's return to work
+		- childcare facilities make it possible for both parents to work
+		- child tax deductions provide an indirect payment to families
+	- most developing countries are concerned that population growth is too rapid and have instituted programs to limit growth
+		- they provide information on family planning and maternal and child health
+		- somtimes governments provide free or low-cost contraceptives
+- immigration policies
+	- birthrates are so low in some countries that immigration is encouraged to offset a potential decline in the number of working-age citizens
+	- developed countries are under intense pressure to accept immigrants
+		- the higher standard of living is a magnet for regugees or people who seek a better life than is possible where they currently live
+### Population Growth Rates and Standard of Living
+- there appears to be an inverse relationship between a country's growth rate and its average standard of living
+- standard of living is a difficult concept to quantify since various cultures have different desires.
+- factors usually included in an analysis of standard of living:
+	- economic well-being
+	- health conditions
+	- social status and mobility
 ## Questions/Thoughts 
 - 
